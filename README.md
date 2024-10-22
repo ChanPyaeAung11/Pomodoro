@@ -1,1 +1,1 @@
-Pomodoro Timer built using React (CRA)
+Pomodoro Timer built using React, Tailwind
